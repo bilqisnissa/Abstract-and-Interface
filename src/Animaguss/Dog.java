@@ -1,6 +1,6 @@
 package Animaguss;
 
-class Dog extends Animal implements Pet {
+public class Dog extends Animal implements Pet {
     private String name;
 
     public Dog() {
